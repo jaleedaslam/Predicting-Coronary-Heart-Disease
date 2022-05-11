@@ -15,12 +15,14 @@ The goal is to create a tool based on this dataset to determine whether or not a
 - Decision Tree
 - SVM
 - Naives Bayes
-- Python Libs
+
+# Python Libs
 - NumPy
 - Pandas
 - SciPy
+- Torch
 - Matplotlib
-- Jupyter
+- Seaborn
 - Scikit-learn (the library that we will use later in this post when creating the predictive models)
 
 # Prerequisite
