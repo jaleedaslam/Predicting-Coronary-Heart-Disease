@@ -23,7 +23,7 @@ The goal is to create a tool based on this dataset to determine whether or not a
 - Torch
 - Matplotlib
 - Seaborn
-- Scikit-learn (the library that we will use later in this post when creating the predictive models)
+- Scikit-learn (library for creating the predictive models)
 
 # Prerequisite
 - Python >= v3.8
